@@ -1,3 +1,3 @@
 #pragma once
 
-extern "C" void StopAllMusic();
+extern "C" void LoadMyAssets();
